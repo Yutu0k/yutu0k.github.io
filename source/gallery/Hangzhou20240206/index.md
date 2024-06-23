@@ -6,5 +6,11 @@ aside: false
 
 {% gallery %}
 ![](DSC04997.jpg)
-![](https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg)
+![](DSC05007.jpg)
+![](DSC05031.jpg)
+![](DSC05066.jpg)
+![](DSC05082.jpg)
+![](DSC05097.jpg)
+![](DSC05100.jpg)
+![](DSC05108.jpg)
 {% endgallery %}

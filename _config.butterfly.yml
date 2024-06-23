@@ -11,11 +11,12 @@ nav:
 menu:
   Home: / || fas fa-home
   # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  Categories: /categories/ || fas fa-folder-open
-  Creation||fas fa-list:
+  Archives||fa-solid fa-box-archive:
+    Tags: /tags/ || fas fa-tags
+    Categories: /categories/ || fas fa-folder-open
+  Miscellaneous||fas fa-list:
     Gallery: /gallery/ || fa-solid fa-camera-retro
-    Music: /music/ || fa-solid fa-music
+    Project: /project/ || fa-solid fa-diagram-project
   # Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
 
@@ -795,11 +796,11 @@ wordcount:
 
 # medium-zoom
 # https://github.com/francoischalifour/medium-zoom
-medium_zoom: true
+medium_zoom: false
 
 # fancybox
 # https://fancyapps.com/fancybox/
-fancybox: false
+fancybox: true
 
 # Tag Plugins settings (標籤外掛)
 # --------------------------------------
